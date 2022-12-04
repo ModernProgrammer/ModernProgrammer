@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ModernProgrammer
 - 👀 I’m interested in Swift and iOS Development
 - 🌱 I’m currently learning ARKit
-- 💞️ I’m looking to collaborate on a iOS Project
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on iOS Projects
 
 <!---
 ModernProgrammer/ModernProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
