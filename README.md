@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ModernProgrammer
+- 👋 Hi, I’m Diego
 - 👀 I’m interested in Swift and iOS Development
 - 🌱 I’m currently learning ARKit
 - 💞️ I’m looking to collaborate on iOS Projects
