@@ -2,7 +2,7 @@
 - 👀 I work full time as a Lead Software Engineer
 - 🌱 My passion is driven through iOS Development using Swift
 - 💞️ Part time lead developer for [NOSSAFLEX](https://apps.apple.com/us/app/nossaflex/id1523558285)
-- Current Technologies I use:
+- Current Technologies I have been using:
   - Swift
   - Python
   - Django
