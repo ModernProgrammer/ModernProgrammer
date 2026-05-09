@@ -1,13 +1,24 @@
-Lead Software Engineer · Indie macOS & iOS Developer · Swift enthusiast · Photography
+<!-- Header -->
+`Lead Software Engineer` · `Indie macOS & iOS Developer` · `Swift` · `Photography`
 
-Building **Reflex** — a suite of micro-apps for power users who care about their craft.
+## Hi, I'm Diego 👋
 
-Photography
-* [Analog](https://apps.apple.com/us/app/nossaflex/id1523558285) - A iOS tool that allows you to keep track of your film photography’s meta data
-* Frame - A MacOS tool to organize Digital Photography using Meta Data (Under Development)
+Building **Reflex** — a suite of focused micro-apps for power users who care about their craft.
 
-Utilities
-*  [Termini](https://github.com/ModernProgrammer/Termini) - A micro terminal for your menu bar. Nothing more.
+---
+
+### Photography
+
+| App | Description |
+|-----|-------------|
+| [Analog](https://apps.apple.com/us/app/nossaflex/id1523558285) | iOS tool for tracking your film photography metadata |
+| Frame | macOS tool to organize digital photography using EXIF metadata *(in development)* |
+
+### Utilities
+
+| App | Description |
+|-----|-------------|
+| [Termini](https://github.com/ModernProgrammer/Termini) | A micro terminal for your menu bar. Nothing more. |
 
 
 <!---
