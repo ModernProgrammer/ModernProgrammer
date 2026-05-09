@@ -1,14 +1,13 @@
-Lead Software Engineer · Indie macOS & iOS Developer · Swift enthusiast
+Lead Software Engineer · Indie macOS & iOS Developer · Swift enthusiast · Photography
 
 Building **Reflex** — a suite of micro-apps for power users who care about their craft.
 
-Part-time lead dev on [NOSSAFLEX](https://apps.apple.com/us/app/nossaflex/id1523558285).
+Photography
+* [Analog](https://apps.apple.com/us/app/nossaflex/id1523558285) - A iOS tool that allows you to keep track of your film photography’s meta data
+* Frame - A MacOS tool to organize Digital Photography using Meta Data (Under Development)
 
-Other Applications in the Works:
-
-[Termini](https://github.com/ModernProgrammer/Termini) - A micro terminal for your menu bar. Nothing more.
-
-Frame(Under Development) -  A tool to organize Digital Photography using Meta Data
+Utilities
+*  [Termini](https://github.com/ModernProgrammer/Termini) - A micro terminal for your menu bar. Nothing more.
 
 
 <!---
